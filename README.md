@@ -1,4 +1,3 @@
-# react-table
 
 # npm install
 установка зависимостей
