@@ -1,7 +1,7 @@
 # react-table
 
-#npm install
+# npm install
 установка зависимостей
 
-#npm start
+# npm start
 запуск сервера
